@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+<link rel="stylesheet" href="css/style.css">
+</head>
+
+<body>
+
+    <div>
+        <h1>Njabulo Msibi's website</h1>
+
+        <marquee direction="up" scrollamount="2">
+
+            <p>Learn and manifest the power of the word</p>
+            
+            
+            <ol>genesis chpt 1 verse 1</ol>
+
+            <ol>exodus chpt 14 verse 14</ol>
+
+            <ol>deutoronomy chpt 31 verse 8</ol>
+            
+
+
+        
+            <ol>lamentations chpt 2 verse 27 </ol>
+            <ol>habbakuk chpt 2 verse 4</ol>
+            <ol>revelation chpt 2 verse 20 </ol>
+            <ol>matthew chpt 6 verse 25</ol>
+            </ol>
+
+            <ul>
+            <ul>matthew chpt 6 verse 33</ul>
+            <ul>joshua chpt 1 verse 8</ul>
+            <ul>james chpt 1 verse 2</ul>
+            <ul>john chpt 14 verse 15</ul>
+            <ul>1john 1 verse 9</ul>
+            <ul>levitecus chpt 31 verse 19</ul>
+
+            </ul>
+          
+          <p>GOD BLESS!!!</p>
+
+        </marquee>
+
+    </div>
+
+        <section>
+
+            <button>Press for more verses</button>
+   
+  </section>
+
+
+</body>
+
+</html>
